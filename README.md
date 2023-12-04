@@ -2,5 +2,5 @@
 
 
 
-This repository contains mini projects in machine learning with jupyter notebook files
+This repository contains mini projects in machine learning with jupyter notebook and Colab
 
