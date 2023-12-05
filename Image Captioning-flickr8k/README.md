@@ -24,5 +24,4 @@ CNN is used for image and LSTM is used for text.
 - VGG16 Network
 - CNN-LSTM Network
 
- 
-**NOTE :** The Architecture and parameter used in this network are capable of producing accuracy of ****76.17%**** on Validation Data which is not pretty good. It is possible to Achieve more accuracy on this dataset using other CNN network and fine tuning of network parameters for training. 
+**NOTE:** The Architecture and parameter used in this network are capable of producing accuracy of ****76.17%**** on Validation Data which is not pretty good. It is possible to Achieve more accuracy on this dataset using other CNN network and fine tuning of network parameters for training. 
