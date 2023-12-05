@@ -14,7 +14,6 @@ CNN is used for image and LSTM is used for text.
 ## Libraries
 
 - numpy
-- matplotlib
 - keras
 - tensorflow
 - nltk
