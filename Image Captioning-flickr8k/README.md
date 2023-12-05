@@ -1,4 +1,4 @@
-## Automated Image Captioning-flickr8k
+# Automated Image Captioning-flickr8k
 
 **Dataset :** https://www.kaggle.com/datasets/aladdinpersson/flickr8kimagescaptions
 
@@ -11,7 +11,7 @@ CNN is used for image and LSTM is used for text.
 
 **Environment:** colab
 
-# Libraries
+## Libraries
 
 - numpy
 - matplotlib
@@ -19,7 +19,7 @@ CNN is used for image and LSTM is used for text.
 - tensorflow
 - nltk
 
-# Neural Network
+## Neural Network
 
 - VGG16 Network
 - CNN-LSTM Network
