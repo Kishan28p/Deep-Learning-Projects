@@ -2,5 +2,5 @@
 
 
 
-This repository contains mini projects in Deep learning with jupyter notebook and Colab
+This repository contains mini projects in Deep learning with jupyter notebook and Colab.
 
